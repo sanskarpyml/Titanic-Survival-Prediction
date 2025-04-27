@@ -1,7 +1,7 @@
 <h1 align="center">Titanic Survival Prediction</h1>
 
 <p align="center">
-  <img src="image/banner_image.jpeg" alt="Project Banner" width="700">
+  <img src="image/banner_image.jpeg" alt="Project Banner" width="400">
 </p>
 
 <hr>
@@ -61,7 +61,7 @@ The trained model can predict survival based on user input features.
 
 <h2>Acknowledgements</h2>
 <p>
-<img src="image/kaggless.jpeg" alt="Decision Tree Diagram" width="600">
+<img src="image/kaggless.jpeg" alt="Decision Tree Diagram" width="500">
 Dataset: <a href="https://www.kaggle.com/competitions/titanic" target="_blank">Kaggle Titanic Competition</a> <br>
 Libraries Used: Python, Pandas, Scikit-learn, Streamlit
 </p>
@@ -80,15 +80,15 @@ Libraries Used: Python, Pandas, Scikit-learn, Streamlit
 
 <h3>Decision Tree Overview</h3>
 <p align="center">
-  <img src="image/decision_tree_image.jpeg" alt="Decision Tree Diagram" width="600">
+  <img src="image/decision_tree_image.jpeg" alt="Decision Tree Diagram" width="400">
 </p>
 
 <h3>Sample Streamlit App Interface</h3>
 <p align="center">
-  <img src="image/streamlit.jpeg" alt="Streamlit App Screenshot" width="600">
+  <img src="image/streamlit.jpeg" alt="Streamlit App Screenshot" width="400">
 </p>
 
 <h3>Sample Titanic Dataset Preview</h3>
 <p align="center">
-  <img src="image/dataset_table.jpeg" alt="Titanic Dataset Table" width="600">
+  <img src="image/dataset_table.jpeg" alt="Titanic Dataset Table" width="400">
 </p>
